@@ -1,0 +1,79 @@
+body {
+  background-color: #5D6D7E;
+}
+h1 {
+  font-family: Courgette, Arial, Helvetica, sans-serif;
+  color: #EAF2F8;
+  font-size: 50px;
+}
+
+h2 {
+  font-family: Oswald, Arial, Helvetica, sans-serif;
+  color: #EAF2F8;
+}
+
+h3 {
+  font-family: Oswald, Arial, Helvetica, sans-serif;
+  color: #EAF2F8;
+}
+
+p {
+  text-align: justify;
+  color:#EAF2F8;
+  font-family: oswald, arial;
+  font-size: 22px;
+  text-justify: inter-word;
+}
+
+#img-div {
+  background-color: #34495E;
+  padding-top: 30px;
+  padding-bottom:10px;
+}
+
+#image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  border: 2px solid #EAF2F8;
+}
+
+#tribute-info {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+#quote-text {
+  font-family: Courgette, Arial, Helvetica, sans-serif;
+  color: #EAF2F8;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  font-size: 40px;
+  text-align: center;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+#img-caption {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  text-align: center;
+}
+#tribute-link {
+  text-align: center;
+  color:#EAF2F8;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  font-family: oswald, arial;
+  font-size: 22px;
+}
